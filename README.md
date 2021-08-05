@@ -105,17 +105,17 @@ It indicates how much of the forecast error variance of each variable can be exp
 
 Finally, the graphs below are the prediction of each time series after being inverted back to their original form.
 
-![5 4 gdp growth prediction](https://user-images.githubusercontent.com/36130927/128289118-85412664-9216-483e-a81a-8d1ebd7c9c9c.png)
+![5 4 gdp growth prediction](https://user-images.githubusercontent.com/36130927/128291447-bcb221a7-6510-4392-8f88-578bf37d1e08.png)
 
-![5 5 govt spending to gdp prediction](https://user-images.githubusercontent.com/36130927/128289245-325a92bf-f272-4177-b48a-1f46c265b257.png)
+![5 5 govt spending to gdp prediction](https://user-images.githubusercontent.com/36130927/128291448-f015d161-7c7c-4eb0-9fca-2b78ef690ba8.png)
 
-![5 6 unemployment rate prediction](https://user-images.githubusercontent.com/36130927/128289246-b6560c3b-9dda-4532-90d8-7a9616e5b17b.png)
+![5 6 unemployment rate prediction](https://user-images.githubusercontent.com/36130927/128291449-3cc1da43-01f6-4d11-b2f8-60ea6c237ce2.png)
 
-![5 7 rent to income prediction](https://user-images.githubusercontent.com/36130927/128289247-a32854c5-26ca-4b75-bd5f-e9160d3c84e1.png)
+![5 7 rent to income prediction](https://user-images.githubusercontent.com/36130927/128291450-f6432ec0-086a-45d0-804a-9dfb15539fb7.png)
 
-![5 8 inflation prediction](https://user-images.githubusercontent.com/36130927/128289250-60a74adb-55d8-440a-95d7-e8518ad1a340.png)
+![5 8 inflation prediction](https://user-images.githubusercontent.com/36130927/128291451-db993143-72db-48ff-9817-a8242902421f.png)
 
-![5 9 ppi prediction](https://user-images.githubusercontent.com/36130927/128289251-98cd1656-5b9c-4ddc-85d0-77f71ea6bd7d.png)
+![5 9 ppi prediction](https://user-images.githubusercontent.com/36130927/128291452-28b866ed-7153-4d87-a871-b363ee9bece1.png)
 
 
 ## 7. Takeaways
